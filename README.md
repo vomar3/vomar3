@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello mate 👋
+## I am a student of the 8th faculty of MAI 
 
 <!--
 **vomar3/vomar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
